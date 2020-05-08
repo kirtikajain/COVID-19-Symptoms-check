@@ -8,4 +8,9 @@ This project also includes the current statistics of positive patients of COVID-
 As researches have shown that an individual can have positive results of corona virus even if no symptoms are detected but this application only detects when symptoms are inputted.
 
 These are snaps of the GUI (Graphical User Interface) of this project.
-![](Covid-19SS1.png)
+
+![](Covid-19_SS1.png)
+
+
+![](Covid-19_SS2.png)
+
