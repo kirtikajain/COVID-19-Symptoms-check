@@ -15,7 +15,14 @@ These are snaps of the GUI (Graphical User Interface) of this project.
 ![](Covid-19_SS2.png)
 
 
-TEAM  
+SOURCES:  
+
+https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset  
+https://www.who.int/emergencies/diseases/novel-coronavirus-2019  
+  
+  
+TEAM:  
+
 1.https://github.com/kirtikajain  
 2.https://github.com/arpit4120  
 3.https://github.com/Nimish-Jain  
