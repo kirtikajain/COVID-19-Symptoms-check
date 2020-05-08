@@ -15,8 +15,8 @@ These are snaps of the GUI (Graphical User Interface) of this project.
 ![](Covid-19_SS2.png)
 
 
-TEAM
-1.https://github.com/kirtikajain
-2.https://github.com/arpit4120
-3.https://github.com/Nimish-Jain
-4.https://github.com/architgpt2802
+TEAM  
+1.https://github.com/kirtikajain  
+2.https://github.com/arpit4120  
+3.https://github.com/Nimish-Jain  
+4.https://github.com/architgpt2802  
